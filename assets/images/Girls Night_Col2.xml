@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Girls Night_Col2.png">
+	<!-- someone generated this using my java program?!? cool! -->
+	<!-- they probably animated this with opentoonz and ran the txt through -->
+	<!-- http://www.youtube.com/Kaara/ -->
+	<SubTexture name="girl0000" x="0" y="0" width="635" height="798"/>
+	<SubTexture name="girl0001" x="0" y="0" width="635" height="798"/>
+	<SubTexture name="girl0002" x="0" y="0" width="635" height="798"/>
+	<SubTexture name="girl0003" x="635" y="0" width="635" height="798"/>
+	<SubTexture name="girl0004" x="635" y="0" width="635" height="798"/>
+	<SubTexture name="girl0005" x="635" y="0" width="635" height="798"/>
+	<SubTexture name="girl0006" x="1270" y="0" width="635" height="798"/>
+	<SubTexture name="girl0007" x="1270" y="0" width="635" height="798"/>
+	<SubTexture name="girl0008" x="1270" y="0" width="635" height="798"/>
+	<SubTexture name="girl0009" x="0" y="798" width="635" height="798"/>
+	<SubTexture name="girl0010" x="0" y="798" width="635" height="798"/>
+	<SubTexture name="girl0011" x="0" y="798" width="635" height="798"/>
+	<SubTexture name="girl0012" x="635" y="798" width="635" height="798"/>
+	<SubTexture name="girl0013" x="635" y="798" width="635" height="798"/>
+	<SubTexture name="girl0014" x="635" y="798" width="635" height="798"/>
+	<SubTexture name="girl0015" x="1270" y="798" width="635" height="798"/>
+	<SubTexture name="girl0016" x="1270" y="798" width="635" height="798"/>
+	<SubTexture name="girl0017" x="1270" y="798" width="635" height="798"/>
+	<SubTexture name="girl0018" x="0" y="1596" width="635" height="798"/>
+	<SubTexture name="girl0019" x="0" y="1596" width="635" height="798"/>
+	<SubTexture name="girl0020" x="0" y="1596" width="635" height="798"/>
+</TextureAtlas>
